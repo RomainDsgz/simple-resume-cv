@@ -17,7 +17,7 @@ Zach Scrivena
 
 **Sample pages (click to enlarge):**
 
-<img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-01.png" alt="CV-01">
+<img height="500" src="https://raw.githubusercontent.com/romaindsgz/simple-resume-cv/master/CV-01.pdf" alt="CV-01">
 <img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-02.png" alt="CV-02">
 <img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-03.png" alt="CV-03">
 
