@@ -1,6 +1,11 @@
 # simple-resume-cv
 
+This is my personal CV, directly adapted from the simple-resume-cv script published by Zach Scrivena. 
 Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
+
+You can see the output as CV.pdf
+
+-------------------------------------------------------------------------------
 
 **Website:**<br>
 https://github.com/zachscrivena/simple-resume-cv
@@ -13,7 +18,7 @@ Zach Scrivena
 
 **Sample pages (click to enlarge):**
 
-<img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-01.png" alt="CV-01">
+<img height="500" src="https://raw.githubusercontent.com/romaindsgz/simple-resume-cv/master/CV-01.pdf" alt="CV-01">
 <img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-02.png" alt="CV-02">
 <img height="500" src="https://raw.githubusercontent.com/zachscrivena/simple-resume-cv/master/Miscellaneous/CV-03.png" alt="CV-03">
 
