@@ -3,7 +3,7 @@
 This is my personal CV, directly adapted from the simple-resume-cv script published by Zach Scrivena. 
 Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
 
-CV.pdf
+You can see the output as CV.pdf
 
 -------------------------------------------------------------------------------
 
