@@ -1,6 +1,10 @@
 # simple-resume-cv
 
+This is my personal CV, directly adapted from the simple-resume-cv script published by Zach Scrivena. 
 Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
+
+
+-------------------------------------------------------------------------------
 
 **Website:**<br>
 https://github.com/zachscrivena/simple-resume-cv
